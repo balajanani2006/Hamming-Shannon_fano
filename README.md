@@ -48,11 +48,11 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}") 
 ```
 # Calculation:
-```
-<img width="842" height="1280" alt="image" src="https://github.com/user-attachments/assets/6361e141-51e8-42d6-932f-f472b90eff2e" />
-<img width="835" height="1280" alt="image" src="https://github.com/user-attachments/assets/84bd12fc-b50d-45a5-b52a-06043c344549" />
+<img width="842" height="1280" alt="image" src="https://github.com/user-attachments/assets/040be9f7-9ade-4e1f-b136-cd4fd5769563" />
+<img width="835" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ef4a2bb-143c-4c0c-a42a-614e26e4a2ca" />
 
-```
+
+
 # Output
 ```
 Enter the number of Samples : 7
